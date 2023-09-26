@@ -1,0 +1,24 @@
+  1-) Prettier, Geliştiricilerin kodlarını standart ve tutarlı bir şekilde otomatik olarak biçimlendirmelerini sağlayan popüler bir kod biçimlendirme aracıdır
+
+  2-) Indent-Rainbow, Girintiyi daha okunaklı hale getirmek için basit bir uzantı
+
+  3-) Auto Rename Tag, Otomatik olarak etiketin bitişini değiştirir örneğin <p>... </p> şeklinde bir etiketimiz var ise <p1>... yağtığımızda kapanış etiketi otomatik bulunur ve değiştirilir
+
+  4-) CSS Peek, Bir sınıf,ID veya HTML etiketine "göz attığınız zaman" CSS peek ilgili  tüm CSS kurallarını satır içi düzenleyicide görüntüler,Bu şekilde stil sayfanızı doğrudan HTML dosyanızdan düzenleyebilir ve ilgili
+  kuralları bulmak için tüm CSS'i görüntülemek zorunda kalmassınız
+
+   
+  5-) HTML CSS Support, Visual Studio için HTML kimliği ve sınıf özniteliğinin tamamlanması
+ 
+  6-) Bracket Pair Colorized 2,  parantez açma/kapama renkleri eşleştirmesini sağlayarak hangi parantezlerin birbirine ait olduğunu bilmeyi çok daha kolaylaştırır
+  
+  7-)Meterial Theme,VSC kullanıcılarının kod düzenliyicinin görünümünü Google'ın Meterial Design yönergelerin uygun hale getirmek için tasarlanmış temadır.
+       Meterial Design,Modern ve kullanıcı dostu bi tasarım dilidir ve çeşitli Google ürünlerinde kullanılmaktadır.
+    
+  8-)Material Icon Theme , Dosyalarınızı ve klasörleri farklı ikonlar ile gösterir
+    
+  9-) Emmet Bazı metin editörlerinde kurmanız gereken ancak Visual Studio Code ile birlikte gelen Emmet, 
+      HTML kodunuzu oldukça hızlandıran bir teknolojidir.
+   
+  10-)Live Server, Web Tabanlı uygulamalar yazdığımızda proje dosyasında değişimleri anlık olarak Browser ekranına yansıtmaya yarayan bir Extension'dır.
+      Normalde bir geliştirme yaparken kodumuzu kaydeder, terminal üzerinden ya da proje dosyasını direkt çalıştırarak projenin Browser ekranında çıktısına bakarız.
